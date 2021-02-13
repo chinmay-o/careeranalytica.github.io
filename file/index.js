@@ -37,12 +37,12 @@ $(".counselLink #knowMore").click(function() {
 
 $("#takeTestOne").click(function() {
 
-    window.location.href = "https://rzp.io/l/mi0fyHW";
+    window.location.href = "https://rzp.io/l/essa";
 });
 
 $("#takeTestTwo").click(function() {
 
-    window.location.href = "https://rzp.io/l/rLLou7v";
+    window.location.href = "https://rzp.io/l/CICSA";
 });
 
 $("#takeTestThree").click(function() {
