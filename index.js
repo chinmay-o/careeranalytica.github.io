@@ -21,17 +21,10 @@ $("#Counselling").click(function() {
       }, 1000);
 });
 
-$("#Education").click(function() {
+$("#Partners").click(function() {
 
     $('html, body').animate({
-        scrollTop: $("#EducationContent").offset().top - 160
-      }, 1000);
-});
-
-$("#Clients").click(function() {
-
-    $('html, body').animate({
-        scrollTop: $("#ClientsContent").offset().top - 160
+        scrollTop: $("#AboutContent").offset().top - 160
       }, 1000);
 });
 
