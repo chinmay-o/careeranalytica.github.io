@@ -28,6 +28,13 @@ $("#Partners").click(function() {
       }, 1000);
 });
 
+$("#TakeTest").click(function() {
+
+    $('html, body').animate({
+        scrollTop: $("#TakeAssess").offset().top - 160
+      }, 1000);
+});
+
 $(".counselLink #knowMore").click(function() {
 
     $('html, body').animate({
